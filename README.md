@@ -13,12 +13,9 @@
       1. [User Story](#user%20story)
       2. [Acceptance criteria](#acceptance%20criteria)
       3. [Visuals](#visuals)
-      4. [Build](#build)
+  
   2. [Installation](#installation)
-  3. [License](#license)
-  4. [Contributing](#contributing)
-  5. [Authors and acknowledgment](#authors%20and%20acknowledgment)
-  6. [Contact](#contact)
+  
 
 ---
 ## About
