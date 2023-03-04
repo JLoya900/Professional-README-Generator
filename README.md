@@ -69,7 +69,7 @@ To clone the repo:
   git clone 
   
   ```
-  
+  https://github.com/JLoya900/Professional-README-Generator
   ```
   
 ---
