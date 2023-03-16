@@ -69,5 +69,5 @@ To clone the repo:
   git clone 
   ```
   
-[DEMO Video Link](https://drive.google.com/file/d/1Q4TO-41fJERGpmJvlhxro2JX-ttfo7Aj/view)  ```
+[DEMO Video Link](https://drive.google.com/file/d/1Q4TO-41fJERGpmJvlhxro2JX-ttfo7Aj/view)
   
