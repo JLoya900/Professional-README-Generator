@@ -65,10 +65,9 @@ node index.js
 Complete all of the questions then you will get a README file which is saved under Develop/new_README folder.
 
 To clone the repo:
-  
-  git clone 
-  
   ```
+  git clone 
+  ```
+  
 [DEMO Video Link](https://drive.google.com/file/d/1Q4TO-41fJERGpmJvlhxro2JX-ttfo7Aj/view)  ```
   
----
