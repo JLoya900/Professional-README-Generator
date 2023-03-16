@@ -67,7 +67,8 @@ Complete all of the questions then you will get a README file which is saved und
 To clone the repo:
   ```
   git clone 
-  ```
-  
+  ![image](https://user-images.githubusercontent.com/118794860/225472117-114ce201-2066-4a9f-bde0-faa774bcdffc.png)
+
+  ```  
 [DEMO Video Link](https://drive.google.com/file/d/1Q4TO-41fJERGpmJvlhxro2JX-ttfo7Aj/view)
   
